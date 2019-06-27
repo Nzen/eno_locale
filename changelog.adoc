@@ -1,0 +1,14 @@
+
+= Enohar Changelog
+
+== Unreleased
+
+* Contemporary canon
+
+== [[1.0]] - 2019-06-26
+
+=== Added
+
+* Adds contemporary locale properties files from note_enojes.
+
+// Added Changed Removed
