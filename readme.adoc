@@ -1,0 +1,6 @@
+
+= note_enohaste
+
+This project publishes the output of https://github.com/Nzen/note_enojes[note_enojes] for building jars.
+
+released as MIT license v1.0
