@@ -26,6 +26,9 @@
 	<name>
 		Eno_locales
 		</name>
+	<url>
+		https://github.com/Nzen/note_enohaste
+		</url>
 	<licenses>
 		<license>
 			<name>
@@ -334,11 +337,6 @@
 							<encoding>
 								UTF-8
 								</encoding>
-							<excludes>
-								<exclude>
-									module-info.java
-									</exclude>
-								</excludes>
 							</configuration>
 						</plugin>
 					<plugin>
@@ -353,9 +351,6 @@
 							3.0.1
 							</version>
 						<configuration>
-							<sourceFileExcludes>
-								**/module-info.java
-								</sourceFileExcludes>
 							<doclint>
 								<!-- suppress javadoc linter -->
 								all,-missing
